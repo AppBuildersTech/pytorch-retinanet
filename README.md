@@ -1,6 +1,6 @@
 # RetinaNet
 
-See de branch dev for developer 
+See the branch dev for developer 
 
 ## References
 
