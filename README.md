@@ -1,6 +1,8 @@
-
-
 # RetinaNet
+
+See de branch dev for developer 
+
+## References
 
 - https://github.com/kuangliu/pytorch-retinanet
 - https://github.com/fizyr/keras-retinanet
